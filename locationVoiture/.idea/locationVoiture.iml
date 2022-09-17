@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Tomcat 9.0.63" level="application_server_libraries" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="mysql-connector-java-5.1.49" level="project" />
+    <orderEntry type="module-library">
+      <library name="jasper">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/accessible/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/alterdesign/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/antcompile/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/antupdate/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/barbecue/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/barcode4j/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/batchexport/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/book/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/chartcustomizers/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/charts/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/chartthemes/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/crosstabs/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/csvdatasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/customvisualization/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/datasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/daterange/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/ejbql/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/exceldataadapter/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/fonts/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/forms/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/functions/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/genericelement/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/groovy/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/hibernate/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/horizontal/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/htmlcomponent/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/httpdataadapter/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/hyperlink/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/i18n/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/iconlabel/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/images/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/jasper/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/java1.5/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/javascript/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/jfreechart/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/jsondatasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/jsonqldatasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/landscape/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/list/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/map/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/markup/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/mondrian/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/nopagebreak/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/noreport/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/noxmldesign/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/paragraphs/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/pdfencrypt/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/printservice/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/query/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/rotation/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/scriptlet/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/shapes/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/spiderchartcomponent/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/stretch/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/styledtext/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/subreport/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/table/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/tableofcontents/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/tabular/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/templates/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/text/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/unicode/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/virtualizer/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/webapp/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xchart/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xchartcomponent/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xlsdatasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xlsfeatures/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xlsformula/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xlsxdatasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/demo/samples/xmldatasource/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/ext/castor/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/ext/chart-customizers/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/ext/chart-themes/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/ext/custom-visualization/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/ext/functions/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/src" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/tests" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/tools/annotation-processors/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/jasperreports-6.19.1/tools/metadata/src/main/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/jar_files (1)" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/jar_files (1)" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
